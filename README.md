@@ -17,6 +17,15 @@ O **SkyForge** é um sistema completo de gerenciamento de aeronaves que permite:
 - **Dashboard** — Métricas em tempo real do sistema
 - **Autenticação Segura** — Sessões via cookies HMAC SHA-256 (HttpOnly, Secure, SameSite=Strict)
 
+> 💡 **Easter Egg:** Experimente tentar cadastrar um funcionário com o nome `gerson`. O sistema possui uma trava de segurança especial contra pessoas "gênias" demais!
+
+---
+
+## 📊 Relatório de Performance
+
+Avaliamos a capacidade de resposta e latência do sistema SkyForge sob concorrência (1, 5 e 10 usuários simultâneos). Os dados detalhados, metodologia e os gráficos em *Mermaid.js* estão disponíveis no nosso documento oficial:
+👉 **[Ler o Relatório de Performance e Carga da AV3](relatorio_performance.md)**
+
 ---
 
 ## 🏗️ Arquitetura
